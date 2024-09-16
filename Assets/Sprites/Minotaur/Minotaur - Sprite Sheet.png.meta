@@ -787,7 +787,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Minotaur - Sprite Sheet_80
+      name: celebration1
       rect:
         serializedVersion: 2
         x: 23
@@ -808,7 +808,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Minotaur - Sprite Sheet_82
+      name: celebration2
       rect:
         serializedVersion: 2
         x: 119
@@ -829,7 +829,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Minotaur - Sprite Sheet_84
+      name: celebration3
       rect:
         serializedVersion: 2
         x: 215
@@ -850,7 +850,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Minotaur - Sprite Sheet_86
+      name: celebration4
       rect:
         serializedVersion: 2
         x: 311
@@ -871,7 +871,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Minotaur - Sprite Sheet_88
+      name: celebration5
       rect:
         serializedVersion: 2
         x: 407
@@ -892,7 +892,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Minotaur - Sprite Sheet_90
+      name: celebration6
       rect:
         serializedVersion: 2
         x: 503
@@ -2870,18 +2870,12 @@ TextureImporter:
       Minotaur - Sprite Sheet_78: -1468644415
       Minotaur - Sprite Sheet_79: -2083289957
       Minotaur - Sprite Sheet_8: -364260565
-      Minotaur - Sprite Sheet_80: 1190038602
       Minotaur - Sprite Sheet_81: 411238075
-      Minotaur - Sprite Sheet_82: -128110254
       Minotaur - Sprite Sheet_83: -1691013935
-      Minotaur - Sprite Sheet_84: 632528806
       Minotaur - Sprite Sheet_85: 954044281
-      Minotaur - Sprite Sheet_86: -538233165
       Minotaur - Sprite Sheet_87: -944342599
-      Minotaur - Sprite Sheet_88: 773794140
       Minotaur - Sprite Sheet_89: -1282409754
       Minotaur - Sprite Sheet_9: 1774088111
-      Minotaur - Sprite Sheet_90: 981240025
       Minotaur - Sprite Sheet_91: -1796382944
       Minotaur - Sprite Sheet_92: -659427253
       Minotaur - Sprite Sheet_93: -2107121327
@@ -2900,6 +2894,12 @@ TextureImporter:
       attack7: -442431826
       attack8: -1292911042
       attack9: -87389154
+      celebration1: 1190038602
+      celebration2: -128110254
+      celebration3: 632528806
+      celebration4: -538233165
+      celebration5: 773794140
+      celebration6: 981240025
       walk1: 39732520
       walk2: -489451277
       walk3: 117805870
