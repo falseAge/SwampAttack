@@ -13,7 +13,7 @@ public class Player : MonoBehaviour
     private Weapon _currentWeapon;
     private int _currentHealth;
     private Animator _animator;
-    
+
     public int Money { get; private set; }
 
     private void Start()
@@ -37,6 +37,11 @@ public class Player : MonoBehaviour
 
         if(_currentHealth <= 0)
             Destroy(gameObject);
+    }
+
+    public void AddMoney(int money)
+    {
+        Money += money;
     }
 
     private void OnEnemyDied(int reward)
